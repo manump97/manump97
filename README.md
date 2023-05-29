@@ -27,6 +27,35 @@ I love exploring new projects and contributing to the open-source community.
         width="37"
       />
     </a>
+    &nbsp;
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+        alt="javascript"
+        width="30"
+      />
+    </a>
+    &nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        alt="git"
+        width="30"
+      />
+    </a>
+    &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+        alt="visualStudioCode"
+        width="30"
+      />
+    </a>
+    
 
 Python 🐍
 JavaScript 💻
