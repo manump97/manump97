@@ -6,10 +6,10 @@
 I love exploring new projects and contributing to the open-source community.
 
 ## Job
-🔭 Currently working on AVL as a Software / Powertrain Engineer.
+- 🔭 Currently working on AVL as a Software / Powertrain Engineer.
 
 ## Languages and Tools
-🌱 Learning and using various programming languages, such as:
+- 🌱 Learning and using various programming languages, such as:
 <div>
 <p align="center">
     <a href="https://ukathworks.com/products.html/" target="_blank" rel="noreferrer">
@@ -82,7 +82,10 @@ etc.
 -->
 
 ## Contact Me
-📫 How to reach me: <i>m.montesinos.delpuerto@gmail.com</i> or LinkedIn [Manuel Montesinos](https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/).
+- 📫 How to reach me: <i>m.montesinos.delpuerto@gmail.com</i> or LinkedIn <a href="https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/">Manuel Montesinos</a>.
+- <a href="https://es.linkedin.com/in/aitorlancharro">Manuel Montesinos</a>
+- <a href="https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/">Manuel Montesinos</a>
+- 
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
