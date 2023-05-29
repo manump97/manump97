@@ -73,15 +73,16 @@ I love exploring new projects and contributing to the open-source community.
     </a>
 </div>
 
-Python 🐍
+<!-- Python 🐍
 JavaScript 💻
 Java ☕️
 HTML/CSS 🌐
 etc.
 💬 Ask me about [areas of expertise or topics you feel comfortable answering].
+-->
 
 ## Contact Me
-📫 How to reach me: [email address] | [LinkedIn](link to your LinkedIn profile).
+📫 How to reach me: m.montesinos.delpuerto@gmail.com | [LinkedIn](https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/).
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
