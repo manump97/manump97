@@ -84,7 +84,7 @@ etc.
 ## Contact Me
 - 📫 How to reach me: <i>m.montesinos.delpuerto@gmail.com</i> or LinkedIn <a href="https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/">Manuel Montesinos</a>.
 - <a href="https://es.linkedin.com/in/aitorlancharro">Manuel Montesinos</a>
-- <a href="https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/">Manuel Montesinos</a>
+- <a href="https://es.linkedin.com/in/manuelmontesinosdelpuerto">Manuel Montesinos</a>
 - 
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
