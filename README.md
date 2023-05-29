@@ -3,24 +3,25 @@
 <h1 align="center">Hello world! 👋 I'm Manuel</h1>
 <h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
 
-### ¡Hola! 👋
-Soy [Tu Nombre], un apasionado/a de la tecnología y el desarrollo de software. Me encanta explorar nuevos proyectos y contribuir a la comunidad de código abierto.
+I'm [Your Name], passionate about technology and software development. I love exploring new projects and contributing to the open-source community.
 
-### Job
-🔭 Actualmente trabajando en [proyecto o empresa actual].
 
-### Languages and Tools
-🌱 Aprendiendo y utilizando varios lenguajes de programación, como:
+🔭 Currently working on [current project or company].
+
+## Languages and Tools
+
+🌱 Learning and using various programming languages, such as:
 
 Python 🐍
 JavaScript 💻
 Java ☕️
 HTML/CSS 🌐
 etc.
-💬 Pregúntame sobre [áreas de experiencia o temas en los que te sientas cómodo/a respondiendo].
+💬 Ask me about [areas of expertise or topics you feel comfortable answering].
 
-### Contact me
-📫 Cómo contactarme: [correo electrónico] | [LinkedIn](enlace a tu perfil de LinkedIn).
+📫 How to reach me: [email address] | [LinkedIn](link to your LinkedIn profile).
+
+Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
 <!--
 **manump97/manump97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
