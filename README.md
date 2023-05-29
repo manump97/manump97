@@ -10,7 +10,7 @@ I love exploring new projects and contributing to the open-source community.
 
 ## Languages and Tools
 🌱 Learning and using various programming languages, such as:
-
+<div>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
@@ -55,7 +55,7 @@ I love exploring new projects and contributing to the open-source community.
         width="30"
       />
     </a>
-    
+</div>
 
 Python 🐍
 JavaScript 💻
