@@ -20,9 +20,9 @@ I love exploring new projects and contributing to the open-source community.
       />
     </a>
     &nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        src="https://www.python.org/static/img/python-logo.png"
         alt="Python"
         width="37"
       />
