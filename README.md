@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello world! 👋 I'm Manuel</h1>
 <h3 align="center">A passionate engineer for software development, data analysis and model simulations from Barcelona ☕️</h3>
 
