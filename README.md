@@ -38,6 +38,14 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
       />
     </a>
     &nbsp;
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/226/226777.png"
+        alt="java"
+        width="37"
+      />
+    </a>
+    &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
