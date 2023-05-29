@@ -16,7 +16,7 @@ I love exploring new projects and contributing to the open-source community.
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
         alt="MATLAB"
-        width="37"
+        width="30"
       />
     </a>
     &nbsp;
@@ -24,7 +24,7 @@ I love exploring new projects and contributing to the open-source community.
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/c3/20220821155028%21Python-logo-notext.svg/120px-Python-logo-notext.svg.png"
         alt="Python"
-        width="33"
+        width="30"
       />
     </a>
     &nbsp;
