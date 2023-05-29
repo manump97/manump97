@@ -11,7 +11,7 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
 - 🔭 Currently working on AVL as a Software / Powertrain Engineer.
 
 ## Languages and Tools
-- 🌱 Learning and using various programming languages, such as:
+<!-- - 🌱 Learning and using various programming languages, such as: -->
 <div>
 <p align="center">
     <a href="https://ukathworks.com/products.html/" target="_blank" rel="noreferrer">
