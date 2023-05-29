@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-¡Hola! 👋
+### ¡Hola! 👋
 Soy [Tu Nombre], un apasionado/a de la tecnología y el desarrollo de software. Me encanta explorar nuevos proyectos y contribuir a la comunidad de código abierto.
 
+### Job
 🔭 Actualmente trabajando en [proyecto o empresa actual].
 
+### Languages and Tools
 🌱 Aprendiendo y utilizando varios lenguajes de programación, como:
 
 Python 🐍
@@ -14,6 +16,7 @@ HTML/CSS 🌐
 etc.
 💬 Pregúntame sobre [áreas de experiencia o temas en los que te sientas cómodo/a respondiendo].
 
+### Contact me
 📫 Cómo contactarme: [correo electrónico] | [LinkedIn](enlace a tu perfil de LinkedIn).
 
 <!--
