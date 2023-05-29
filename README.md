@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋🏼, I'm Manuel</h1>
+<h1 align="center">Hello world! 👋 I'm Manuel</h1>
 <h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
 
 ### ¡Hola! 👋
