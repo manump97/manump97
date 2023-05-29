@@ -1,15 +1,14 @@
 ### Hi there 👋
 
 <h1 align="center">Hello world! 👋 I'm Manuel</h1>
-<h3 align="center">A passionate FullStack developer from Barcelona and serial coffee drinker ☕️</h3>
+<h3 align="center">A passionate engineer for software development, data analysis and model simulations from Barcelona ☕️</h3>
 
-I'm [Your Name], passionate about technology and software development. I love exploring new projects and contributing to the open-source community.
+A passionate about technology and software development. I love exploring new projects and contributing to the open-source community.
 
-
-🔭 Currently working on [current project or company].
+## Job
+🔭 Currently working on AVL as a Software / Powertrain Engineer.
 
 ## Languages and Tools
-
 🌱 Learning and using various programming languages, such as:
 
 Python 🐍
@@ -19,6 +18,7 @@ HTML/CSS 🌐
 etc.
 💬 Ask me about [areas of expertise or topics you feel comfortable answering].
 
+## Contact Me
 📫 How to reach me: [email address] | [LinkedIn](link to your LinkedIn profile).
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
