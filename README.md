@@ -24,7 +24,7 @@ I love exploring new projects and contributing to the open-source community.
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/c3/20220821155028%21Python-logo-notext.svg/120px-Python-logo-notext.svg.png"
         alt="Python"
-        width="37"
+        width="33"
       />
     </a>
     &nbsp;
