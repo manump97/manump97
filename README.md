@@ -22,7 +22,7 @@ I love exploring new projects and contributing to the open-source community.
     &nbsp;
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/c3/20220821155028%21Python-logo-notext.svg/120px-Python-logo-notext.svg.png"
         alt="Python"
         width="37"
       />
