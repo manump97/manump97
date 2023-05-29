@@ -12,7 +12,7 @@ I love exploring new projects and contributing to the open-source community.
 🌱 Learning and using various programming languages, such as:
 <div>
 <p align="center">
-    <a href="https://fr.mathworks.com/products.html?s_tid=gn_ps" target="_blank" rel="noreferrer">
+    <a href="https://ukathworks.com/products.html/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
         alt="MATLAB"
@@ -23,7 +23,7 @@ I love exploring new projects and contributing to the open-source community.
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
+        alt="Python"
         width="37"
       />
     </a>
