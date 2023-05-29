@@ -82,7 +82,7 @@ etc.
 -->
 
 ## Contact Me
-📫 How to reach me: m.montesinos.delpuerto@gmail.com | [LinkedIn](https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/).
+📫 How to reach me: <i>m.montesinos.delpuerto@gmail.com</i> or LinkedIn [Manuel Montesinos](https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/).
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
