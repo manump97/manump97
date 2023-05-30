@@ -87,14 +87,6 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
         width="30"
       />
     </a>
-    &nbsp;
-    <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://pbs.twimg.com/profile_images/1424199432749387787/kdk6s6Jd_400x400.jpg"
-        alt="spyder5"
-        width="30"
-      />
-    </a>
 </div>
 
 <!-- Python 🐍
