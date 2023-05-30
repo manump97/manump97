@@ -3,9 +3,9 @@
 
 <!-- <h4 align="center">Exploring new projects and contributing to the open-source community.</h4> -->
 
-Exploring new projects and contributing to the open-source community.
-
 Proactive, responsible and curious, learning from my own new techonolgies everyday to develop personal projects. Keep growing! 🌱
+
+Exploring new projects and contributing to the open-source community.
 
 ## Job
 - 🔭 Currently working on AVL as a Software / Powertrain Engineer.
