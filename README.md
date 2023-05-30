@@ -14,7 +14,7 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
 <!-- - 🌱 Learning and using various programming languages, such as: -->
 <div>
 <p align="center">
-    <a href="https://ukathworks.com/products.html/" target="_blank" rel="noreferrer">
+    <a href="https://uk.mathworks.com/products.html/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png"
         alt="MATLAB"
