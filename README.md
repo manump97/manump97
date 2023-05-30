@@ -3,7 +3,8 @@
 
 <h4>I love exploring new projects and contributing to the open-source community.</h4>
 
-Proactive and free spirit, learning from my own new techonolgies everyday to develop personal projects.
+Proactive, responsible and curious, learning from my own new techonolgies everyday to develop personal projects. Keep growing! 💪
+I love playing tennis, enjoy a chess game, fan of motorsport and anything around Zelda world.
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
