@@ -1,7 +1,9 @@
 <h1 align="center">Hello world! 👋 I'm Manuel</h1>
 <h3 align="center">A passionate engineer for software development, data analysis and model simulations from Barcelona ☕️</h3>
 
-<h4 align="center">Exploring new projects and contributing to the open-source community.</h4>
+<!-- <h4 align="center">Exploring new projects and contributing to the open-source community.</h4> -->
+
+Exploring new projects and contributing to the open-source community.
 
 Proactive, responsible and curious, learning from my own new techonolgies everyday to develop personal projects. Keep growing! 🌱
 
@@ -102,6 +104,7 @@ I love playing tennis 🎾, enjoy a chess game ♟️, fan of motorsport 🏎️
 
 ## Contact Me
 - 📫 How to reach me: <i>m.montesinos.delpuerto@gmail.com</i> or LinkedIn <a href="https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/">Manuel Montesinos</a>
+
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
 <!--
