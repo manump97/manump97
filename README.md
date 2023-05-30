@@ -3,11 +3,7 @@
 
 <h4 align="center">Exploring new projects and contributing to the open-source community.</h4>
 
-Proactive, responsible and curious, learning from my own new techonolgies everyday to develop personal projects. Keep growing! 💪
-
-I love playing tennis, enjoy a chess game, fan of motorsport and anything around Zelda world.
-
-Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
+Proactive, responsible and curious, learning from my own new techonolgies everyday to develop personal projects. Keep growing! 🌱
 
 ## Job
 - 🔭 Currently working on AVL as a Software / Powertrain Engineer.
@@ -100,9 +96,14 @@ HTML/CSS 🌐
 etc.
 💬 Ask me about [areas of expertise or topics you feel comfortable answering].
 -->
+## Hobbies
+I love playing tennis 🎾, enjoy a chess game ♟️, fan of motorsport 🏎️ 🚗 and anything around Zelda world ![ZELDA](https://github.com/manump97/manump97/assets/125990485/4c1dfe60-9173-47fe-8f85-412035cd63eb)
+.
+
 
 ## Contact Me
 - 📫 How to reach me: <i>m.montesinos.delpuerto@gmail.com</i> or LinkedIn <a href="https://www.linkedin.com/in/manuel-montesinos-del-puerto-18480413a/">Manuel Montesinos</a>
+Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
 <!--
 **manump97/manump97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
