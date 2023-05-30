@@ -99,7 +99,7 @@ etc.
 💬 Ask me about [areas of expertise or topics you feel comfortable answering].
 -->
 ## Hobbies
-I love playing tennis 🎾, enjoy a chess game ♟️, fan of motorsport 🏎️ 🚗 and anything around Zelda world 🧝.
+I love playing tennis 🎾, enjoy a chess game ♟️, fan of motorsport 🏁 and anything around Zelda world 🧝.
 
 
 ## Contact Me
