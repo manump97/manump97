@@ -79,6 +79,14 @@ Thank you for visiting my GitHub profile! I hope you find something interesting 
         width="30"
       />
     </a>
+    &nbsp;
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+      <img
+        src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"
+        alt="intellij"
+        width="30"
+      />
+    </a>
 </div>
 
 <!-- Python 🐍
