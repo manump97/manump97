@@ -1,7 +1,9 @@
 <h1 align="center">Hello world! 👋 I'm Manuel</h1>
 <h3 align="center">A passionate engineer for software development, data analysis and model simulations from Barcelona ☕️</h3>
 
-I love exploring new projects and contributing to the open-source community.
+<h4>I love exploring new projects and contributing to the open-source community.</h4>
+
+Proactive and free spirit, learning from my own new techonolgies everyday to develop personal projects.
 
 Thank you for visiting my GitHub profile! I hope you find something interesting here. 😄
 
